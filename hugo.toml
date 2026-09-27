@@ -6,3 +6,4 @@ theme = 'ananke'
 [params]
   author = 'xilin443-dev'
   description = 'My first Hugo site'
+googleSiteVerification = "pzUfKpOTE4WrlPYsaErXpkzVfMOrW2uq0ERRQQ1KWls"
