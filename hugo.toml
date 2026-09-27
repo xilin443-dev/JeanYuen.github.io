@@ -1,0 +1,8 @@
+baseURL = 'https://xilin443-dev.github.io/JeanYuen.github.io/'
+locale = 'en-us'
+title = 'Jean Yuen'
+theme = 'ananke'
+
+[params]
+  author = 'xilin443-dev'
+  description = 'My first Hugo site'
